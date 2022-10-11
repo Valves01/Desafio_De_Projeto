@@ -17,7 +17,14 @@ Morpheus-Matrix
 
 Módulo - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso [acesso ao módulo](https://web.dio.me/project/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/a6e285fa-b9a0-4bc2-8353-7b729dabcf0c?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
 
+- [x] Introdução e apresentação do projeto
+- [x] Git e Github relembrando algumas coisinhas
+- [x] Desafio de projeto
+- [x] Entendendo o projeto  
+
 Mentoria - Como criar seu plano de estudos usando o Github [acesso a mentoria](https://www.youtube.com/watch?v=tc5Jv9iexVM)
+
+- [x] Mentoria dia 10/10/2022 com Juliana Mascarenhas
 
 
 
