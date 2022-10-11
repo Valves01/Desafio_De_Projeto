@@ -12,7 +12,8 @@ Morpheus-Matrix
 ## Aulas de apoio para a confecção do desafio de projeto:
 
 Módulo - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-Mentoria -Como Criar seu plano de estudos usando o Github (https://web.dio.me/lives/como-criar-seu-plano-de-estudos-usando-github)
+
+Mentoria - Como criar seu plano de estudos usando o Github [acesso a mentoria](https://www.youtube.com/watch?v=tc5Jv9iexVM)
 
 
 
