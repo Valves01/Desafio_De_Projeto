@@ -27,4 +27,22 @@ Mentoria - Como criar seu plano de estudos usando o Github [acesso a mentoria](h
 - [x] Mentoria dia 10/10/2022 com Juliana Mascarenhas
 
 
+## Módulos do Bootcamp concluídos:
+
+- [x] Prepare-se para a jornada (Onboarding)
+- [x] Princípios de Desenvolvimento de Software
+
+
+## Módulos do Bootcamp à concluír:
+
+- [ ] Conhecendo a linguagem de programação Java
+- [ ] Dominando Algoritimos Básicos com desafios de Códigos Java
+- [ ] Programaçãop orientada a Objetos com Java
+- [ ] Ganhando produtividade com Spring Framework
+- [ ] Dominando Algoritimos Intermediarios com desafios de Códigos Java
+- [ ] Fortalecendo sua carreira profissional
+
+
+
+
 
