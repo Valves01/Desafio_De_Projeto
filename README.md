@@ -37,7 +37,7 @@ Mentoria - Como criar seu plano de estudos usando o Github [acesso a mentoria](h
 
 - [ ] Conhecendo a linguagem de programação Java
 - [ ] Dominando Algoritimos Básicos com desafios de Códigos Java
-- [ ] Programaçãop orientada a Objetos com Java
+- [ ] Programação orientada a Objetos com Java
 - [ ] Ganhando produtividade com Spring Framework
 - [ ] Dominando Algoritimos Intermediarios com desafios de Códigos Java
 - [ ] Fortalecendo sua carreira profissional
