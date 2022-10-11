@@ -36,8 +36,9 @@ Mentoria - Como criar seu plano de estudos usando o Github [acesso a mentoria](h
 ## Módulos do Bootcamp à concluír:
 
 ###### Conhecendo a linguagem de programação Java
-- [x] Dominando Programação Orientada a Objetos com Java - iFood [acesso a mentoria](https://www.youtube.com/watch?v=RXUmPcpC4II
-  
+Mentoria - Dominando Programação Orientada a Objetos com Java - iFood [acesso a mentoria](https://www.youtube.com/watch?v=RXUmPcpC4II)
+- [x] Mentoria dia 11/10/2022 com Camila Cavalcante
+ 
 ###### Dominando Algoritimos Básicos com desafios de Códigos Java
 ###### Programação orientada a Objetos com Java
 ###### Ganhando produtividade com Spring Framework
